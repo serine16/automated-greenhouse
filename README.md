@@ -1,6 +1,6 @@
 # Automated-Greenhouse
 
-Automated greenhouse system built during CEGEP final project course using Arduno and environmental sensors.
+Automated greenhouse system built during CEGEP final project course using Arduino and environmental sensors.
 The goal of the project was to monitor greenhouse conditions and automatically control systems such as ventilation watering and empty reservoir alert based on sensor readings.
 ---
 
